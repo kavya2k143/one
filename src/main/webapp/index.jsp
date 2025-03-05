@@ -40,7 +40,7 @@
 
   <!-- Gallery Section -->
   <section class="gallery" id="gallery">
-    <h2>Our Work</h2>
+    <h2>Our Work are avaliable on Online</h2>
     <div class="gallery-images">
       <img src="https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Design 1">
       <img src="https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Design 2">
